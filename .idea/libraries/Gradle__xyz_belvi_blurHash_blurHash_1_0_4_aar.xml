@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: xyz.belvi.blurHash:blurHash:1.0.4@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/917b212786b79000fe92e39431e5f21e/transformed/jetified-blurHash-1.0.4/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/917b212786b79000fe92e39431e5f21e/transformed/jetified-blurHash-1.0.4/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/xyz.belvi.blurHash/blurHash/1.0.4/e18812aa54a032bb36155ec96f38c0cd066c2975/blurHash-1.0.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/xyz.belvi.blurHash/blurHash/1.0.4/e7f156f2a003348e6add5ef208a69b8587443e38/blurHash-1.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

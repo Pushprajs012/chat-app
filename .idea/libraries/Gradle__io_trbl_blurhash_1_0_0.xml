@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: io.trbl:blurhash:1.0.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="io.trbl" artifactId="blurhash" version="1.0.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.trbl/blurhash/1.0.0/62067034aa4aac43c681612f34d69cda8ee1cb9b/blurhash-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.trbl/blurhash/1.0.0/bbaaee54c136ff91f1cd3b6c44b14f833b16f83f/blurhash-1.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.trbl/blurhash/1.0.0/be197afc32a47a36c18294c5d25fcc90c91495d3/blurhash-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

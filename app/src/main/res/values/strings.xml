@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Talk Walk</string>
+    <string name="admob_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_video_id">ca-app-pub-2518991901166857/5921117036</string>
+    <string name="default_notification_channel_id">Burnab_CH_01</string>
+    <string name="channel_description">Burnab_Messaging</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_friend">Add Friend</string>
+    <string name="friend_request_sent">Friend Request Sent</string>
+    <string name="clear_chat">Clear Chat</string>
+    <string name="block">Block</string>
+    <string name="report">Report</string>
+    <string name="leave">Leave</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="my_info">My Info</string>
+    <string name="notifications">Notifications</string>
+    <string name="blocked_friends">Blocked Friends</string>
+    <string name="get_coins">Get Free Coins</string>
+    <string name="switch_to_dark_mode">Switch to Dark Mode</string>
+    <string name="switch_to_light_mode">Switch to Light Mode</string>
+    <string name="change_theme">Change Theme</string>
+    <string name="invite_friend">Invite Friend</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="write_a_review">Write a Review</string>
+    <string name="terms_of_service">Terms of Service</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="logout">Logout</string>
+    <string name="account_deleted">[deleted]</string>
+    <string name="currency_symbol">₹</string>
+    <string name="camera_permission">Camera permission</string>
+    <string name="camera_permission_message">Camera permission is needed to get pictures.</string>
+    <string name="storage_permission">Storage permission</string>
+    <string name="storage_permission_message">Storage permission is needed to get pictures.</string>
+</resources>

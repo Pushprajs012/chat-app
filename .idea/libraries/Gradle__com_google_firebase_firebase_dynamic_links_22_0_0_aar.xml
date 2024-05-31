@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-dynamic-links:22.0.0@aar" external-system-id="GRADLE">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c87e9d22ab800c64e3b023195acbb314/transformed/jetified-firebase-dynamic-links-22.0.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c87e9d22ab800c64e3b023195acbb314/transformed/jetified-firebase-dynamic-links-22.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c87e9d22ab800c64e3b023195acbb314/transformed/jetified-firebase-dynamic-links-22.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-dynamic-links/22.0.0/e37bbf43fe5177647fcc43ae946c20d37ece8814/firebase-dynamic-links-22.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
